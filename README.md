@@ -11,3 +11,6 @@ http://localhost:8069/hw_proxy/status
 
 ## Get help
 Go to stackoverflow, not to the Odoo forum
+
+## Uninstall
+http://stackoverflow.com/questions/35570093/removing-odoo-9-from-ubuntu-14-04-desktop
